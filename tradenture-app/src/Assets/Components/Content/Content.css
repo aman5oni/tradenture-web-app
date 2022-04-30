@@ -1,0 +1,9 @@
+.contentMain{
+    align-items: center;
+    position: relative;
+    background-color: rgb(255, 0, 0);
+    color: rgb(171, 11, 11);
+    width:auto;
+    height: auto;
+    display: flex;
+}
